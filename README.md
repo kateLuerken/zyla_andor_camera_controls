@@ -5,4 +5,4 @@ Uses
 - Collect speckle image capture
 - [TENTATIVE] Display live view
 
->> python .\Image_capture.py [-h] [--live] [--crop] frames exp out
+> python .\Image_capture.py [-h] [--live] [--crop] frames exp out
